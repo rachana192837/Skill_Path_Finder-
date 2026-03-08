@@ -354,14 +354,6 @@ BASE_URL=your_api_gateway_url
 
 ---
 
-## 👥 Team
-
-| Name | Role |
-|---|---|
-| **Rachana N** | Team Leader + Full Stack Developer |
-
----
-
 ## 🏆 Hackathon
 
 **AWS AI for Bharat Hackathon 2025**
