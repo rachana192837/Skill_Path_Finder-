@@ -11,7 +11,6 @@
 
 **India's AI-powered career counselor — on Web, WhatsApp, and Voice Call.**
 
-*Built for AWS AI for Bharat Hackathon 2025*
 
 [🌐 Live Demo](https://master.dz3ur97e6jwin.amplifyapp.com) · [💬 WhatsApp Bot](#whatsapp-bot) · [📞 Voice Call](#voice-call) · [📹 Demo Video](#demo-video)
 
@@ -352,20 +351,6 @@ BASE_URL=your_api_gateway_url
 
 **Goal: Reach 1 crore youth across 500 districts of India by 2027**
 
----
-
-## 🏆 Hackathon
-
-**AWS AI for Bharat Hackathon 2025**
-Problem Statement: 01 — AI for Learning & Developer Productivity
-
----
-
-## 📄 License
-
-This project is built for the AWS AI for Bharat Hackathon 2025.
-
----
 
 <div align="center">
 
