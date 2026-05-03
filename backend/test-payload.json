@@ -1,0 +1,4 @@
+{
+  "httpMethod": "POST",
+  "body": "{\"message\":\"hello\",\"sessionId\":\"test123\",\"userId\":\"user1\"}"
+}
